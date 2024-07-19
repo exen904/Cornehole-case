@@ -1,4 +1,4 @@
-# Cornehole-case
+# Cornehole-case for wired CRKBDs with TRRS
 
 **This is a remix of the original model to accomodate a TRRS connector and a wider variety of MCUs. Huge thanks to zzcc289 for creating this.**
 
